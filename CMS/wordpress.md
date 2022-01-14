@@ -35,7 +35,7 @@ This is one of the common issue on wordpress. To get some bucks with this miscon
     <params></params>
     </methodCall>
     ```
-* Check the ```pingback.ping``` mentod is there or not
+* Check the ```pingback.ping``` method is there or not
 * Perform DDOS
     ```
     <methodCall>
